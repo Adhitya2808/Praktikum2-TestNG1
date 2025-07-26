@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Belajar TestNG Suite">
+    <test name="Kalkulator Test" thread-count="10000">
+        <classes>
+            <class name="com.Tohsaka.CalculatorTest"></class>
+        </classes>
+    </test>
+    <test name="loop Test" thread-count="10000">
+        <classes>
+            <class name="com.Tohsaka.PrimaTest"></class>
+            <class name="com.Tohsaka.loopingTest"></class>
+        </classes>
+    </test>
+</suite>
+
