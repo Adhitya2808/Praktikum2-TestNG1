@@ -1,5 +1,5 @@
-#Perbedaan Waktu Test menggunakan cara Sequensial dan juga Pararel
+# Perbedaan Waktu Test menggunakan cara Sequensial dan juga Pararel
 
-##Sequensial
+## Sequensial
 
-##Pararel
+## Pararel
